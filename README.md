@@ -6,6 +6,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verymanycoins)](https://solved.ac/verymanycoins/)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhejo%2Fhit-counter&count_bg=%236CADDF&title_bg=%2300285E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **hhejo/hhejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
