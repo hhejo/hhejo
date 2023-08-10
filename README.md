@@ -2,12 +2,6 @@
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verymanycoins)](https://solved.ac/verymanycoins/)
-
-**[공부한 것을 정리하는 블로그](https://hhejo.github.io)**
-
----
-
 ### Language
 
 <div>
@@ -81,7 +75,9 @@
   <img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black">
 </div>
 
----
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verymanycoins)](https://solved.ac/verymanycoins/)
+
+**[공부한 것을 정리하는 블로그](https://hhejo.github.io)**
 
 <!--
 **hhejo/hhejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
