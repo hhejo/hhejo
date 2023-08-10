@@ -2,7 +2,17 @@
 
 ---
 
-## Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhejo&layout=compact)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verymanycoins)](https://solved.ac/verymanycoins/)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhejo%2Fhit-counter&count_bg=%236CADDF&title_bg=%2300285E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+**[공부한 것을 정리하는 블로그](https://hhejo.github.io)**
+
+---
+
+### Language
 
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -76,18 +86,6 @@
 </div>
 
 ---
-
-![hhejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhejo&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhejo&layout=compact)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verymanycoins)](https://solved.ac/verymanycoins/)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhejo%2Fhit-counter&count_bg=%236CADDF&title_bg=%2300285E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-안녕하세요
-
-**[공부한 것을 정리하는 블로그](https://hhejo.github.io)**
 
 <!--
 **hhejo/hhejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
