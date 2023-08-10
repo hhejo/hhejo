@@ -87,6 +87,24 @@
 **[공부한 것을 정리하는 블로그](https://hhejo.github.io)**
 
 <!--
+
+혼자 프로젝트 2020-2021
+플라스크
+셀레늄
+노마드코더
+
+싸피
+관통
+공통
+특화
+자율
+
+혼자 프로젝트 2023
+하는중..
+
+-->
+
+<!--
 **hhejo/hhejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
