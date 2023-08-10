@@ -11,7 +11,6 @@
 ## Tech Stack
 
 **Language**
-
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <!--   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> -->
@@ -21,14 +20,17 @@
 </div>
 <br />
 
-**Server / Database**
-
+**Server**
 <div>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/_-FFFFFF?style=flat-square&logo=_&logoColor=white">
+</div>
+<br />
+
+**Database**
+<div>
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
@@ -37,8 +39,7 @@
 </div>
 <br />
 
-**Client / UI**
-
+**Client**
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
@@ -48,7 +49,11 @@
 <!--   <img src="https://img.shields.io/badge/react router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> -->
   <img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black">
-  <img src="https://img.shields.io/badge/_-FFFFFF?style=flat-square&logo=_&logoColor=white">
+</div>
+<br />
+
+**UI**
+<div>
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
