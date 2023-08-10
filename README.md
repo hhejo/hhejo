@@ -84,9 +84,6 @@
   <img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black">
 </div>
 
-<br />
-<br />
-
 ## Projects
 
 - **까마귀 공방(Crow Studio)** (2022/10 - 2022/11, 7 weeks)
