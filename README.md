@@ -2,9 +2,11 @@
 
 ---
 
-취업 준비중입니다 🤓
+현재 취업 준비중입니다 🤓
 
-<br />
+### 활동
+
+[삼성 청년 SW 아카데미(SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) 7기 수료 (22/01 - 22/12)
 
 ### Language
 
