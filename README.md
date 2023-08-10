@@ -4,9 +4,11 @@
 
 현재 취업 준비중입니다 🤓
 
-### 활동
+## History
 
-[삼성 청년 SW 아카데미(SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) 7기 수료 (22/01 - 22/12)
+[삼성 청년 SW 아카데미(SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) 7기 수료 (2022/01 - 2022/12)
+
+## Stacks
 
 ### Language
 
@@ -85,9 +87,37 @@
 <br />
 <br />
 
+## Projects
+
+- **까마귀 공방(Crow Studio)** (2022/10 - 2022/11, 7 weeks)
+  - 온라인 IDE 서비스
+- 사내 식당 식단표 스크래핑 (JS, Selenium)
+- **Art Horizon** (2022/08 - 2022/10, 7 weeks)
+  - 온라인으로 미술 관람, 전시, 추천 서비스
+- **Learnity** (2022/07 - 2022/08, 7 weeks)
+  - 실시간 강의 및 스터디 플랫폼 서비스
+- **D-Flex** (2022/05, 1 week)
+  - 영화 검색, 추천, 리뷰, 커뮤니티 서비스
+- Django를 이용한 게시판 CRUD 사이트
+- Flask를 이용한 게시판 CRUD 사이트
+- 카카오톡 화면 클론 코딩 (HTML, CSS, JS)
+- 웹 사이트 스크래퍼(Python, Flask, Selenium)
+- JavaScript를 이용한 간단한 To Do List
+- HTML, CSS를 이용해 간단한 블로그 사이트 작성
+
+## PS
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verymanycoins)](https://solved.ac/verymanycoins/)
 
+## Blog
+
 **[공부한 것을 정리하는 블로그](https://hhejo.github.io)**
+
+
+
+
+
+
 
 <!--
 
