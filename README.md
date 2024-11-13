@@ -109,7 +109,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhejo&layout=compact)
 
-
+![hhejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhejo&show_icons=true&theme=default)
 
 <!--
 
@@ -133,9 +133,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-![hhejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhejo&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhejo&layout=compact)
 -->
