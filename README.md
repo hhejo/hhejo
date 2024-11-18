@@ -99,7 +99,7 @@
 - JavaScript를 이용한 간단한 To Do List
 - HTML, CSS를 이용해 간단한 블로그 사이트 작성
 
-## PS
+## Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verymanycoins)](https://solved.ac/verymanycoins/)
 
