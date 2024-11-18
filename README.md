@@ -88,11 +88,11 @@
 - **[까마귀 공방(Crow Studio)](https://github.com/hhejo/crow-studio-fe)**
   - 온라인 IDE 서비스 (2022/10 - 2022/11, 7 weeks)
 - 사내 식당 식단표 스크래핑 (JS, Selenium)
-- **Art Horizon**
+- **[Art Horizon](https://github.com/hhejo/art-horizon-fe)**
   - 온라인으로 미술 관람, 전시, 추천 서비스 (2022/08 - 2022/10, 7 weeks)
 - **Learnity**
   - 실시간 강의 및 스터디 플랫폼 서비스 (2022/07 - 2022/08, 7 weeks)
-- **D-Flex** (2022/05, 1 week)
+- **[D-Flex](https://github.com/hhejo/D-FLEX)** (2022/05, 1 week)
   - 영화 검색, 추천, 리뷰, 커뮤니티 서비스
 - Django를 이용한 게시판 CRUD 사이트
 - Flask를 이용한 게시판 CRUD 사이트
