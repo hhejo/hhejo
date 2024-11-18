@@ -4,9 +4,11 @@
 
 현재 취업 준비중입니다 🤓
 
-## Portfolio
+## Portfolio, Blog
 
 [프론트엔드 개발자 함희주의 포트폴리오](https://sable-exhaust-9f0.notion.site/479338ef915044d88328b7a65198bab7)
+
+**[공부한 것을 정리하는 블로그](https://hhejo.github.io)**
 
 ## History
 
@@ -96,12 +98,6 @@
 - 웹 사이트 스크래퍼(Python, Flask, Selenium)
 - JavaScript를 이용한 간단한 To Do List
 - HTML, CSS를 이용해 간단한 블로그 사이트 작성
-
-## Blog
-
-**[공부한 것을 정리하는 블로그](https://hhejo.github.io)**
-
-[![Blog Badge](https://img.shields.io/badge/Tech%20Blog-6CABDD?style=flat&logoColor=white)]("https://hhejo.github.io")
 
 ## PS
 
