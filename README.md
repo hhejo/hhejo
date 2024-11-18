@@ -85,7 +85,7 @@
 
 ## Projects
 
-- **까마귀 공방(Crow Studio)**
+- **[까마귀 공방(Crow Studio)](https://github.com/hhejo/crow-studio-fe)**
   - 온라인 IDE 서비스 (2022/10 - 2022/11, 7 weeks)
 - 사내 식당 식단표 스크래핑 (JS, Selenium)
 - **Art Horizon**
