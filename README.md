@@ -97,15 +97,17 @@
 - JavaScript를 이용한 간단한 To Do List
 - HTML, CSS를 이용해 간단한 블로그 사이트 작성
 
-## PS
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verymanycoins)](https://solved.ac/verymanycoins/)
-
 ## Blog
 
 **[공부한 것을 정리하는 블로그](https://hhejo.github.io)**
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhhejo%2Fhit-counter&count_bg=%237FC3F2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+## PS
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verymanycoins)](https://solved.ac/verymanycoins/)
+
+## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhejo&layout=compact)
 
