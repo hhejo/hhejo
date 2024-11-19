@@ -89,6 +89,8 @@
   - C# Windows Forms를 이용한 구글 검색기 데스크탑 애플리케이션
 - [무니(MooNee)](https://github.com/hhejo/moonee) - `JavaScript`, `Vite`, `TailwindCSS`
   - indexedDB를 이용한 가계부 오프라인 웹 애플리케이션
+- [코스타 타이머(KOSTA Timer)](https://github.com/hhejo/chrome-timer)
+  - 날짜와 시간을 지정해 알림 메시지를 띄워주는 크롬 확장 프로그램 [크롬 웹스토어에 등록됨](https://chromewebstore.google.com/detail/kosta-timer/helppnekbooonbajcomnekjicpoaoifd?hl=ko&utm_source=ext_sidebar)
 - [파이비즈(Pyviz)](https://github.com/hhejo/pyviz) - `Python`
   - 웹 크롤링, 데이터 시각화
 - [뉴뉴스(Newnews)](https://github.com/hhejo/newnews) - `Next`, `TypeScript`, `Express`
