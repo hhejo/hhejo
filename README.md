@@ -85,14 +85,26 @@
 
 ## Projects
 
-- **[까마귀 공방(Crow Studio)](https://github.com/hhejo/crow-studio-fe)**
+- [퍼가요(PuGaYo)](https://github.com/hhejo/pugayo) - `C#`, `Windows Forms`
+  - C# Windows Forms를 이용한 구글 검색기 데스크탑 애플리케이션
+- [무니(MooNee)](https://github.com/hhejo/moonee) - `JavaScript`, `Vite`, `TailwindCSS`
+  - indexedDB를 이용한 가계부 오프라인 웹 애플리케이션
+- [파이비즈(Pyviz)](https://github.com/hhejo/pyviz) - `Python`
+  - 웹 크롤링, 데이터 시각화
+- [뉴뉴스(Newnews)](https://github.com/hhejo/newnews) - `Next`, `TypeScript`, `Express`
+  - 알라딘 Open API를 이용한 책 조회, 검색 사이트
+- [호호밥(HoHoBoB)](https://github.com/hhejo/hohobob) - `HTML`, `SASS`
+  - 식당 소개 사이트
+- [날씨-기분-일기(Weather-Emotion-Diary)](https://github.com/hhejo/wea-emo-diary) - `Scratch`
+  - 하루의 날씨, 기분을 기록하고 평가하는 모바일 앱
+- **[까마귀 공방(Crow Studio)](https://github.com/hhejo/crow-studio-fe)** - `React`
   - 온라인 IDE 서비스 (2022/10 - 2022/11, 7 weeks)
-- 사내 식당 식단표 스크래핑 (JS, Selenium)
-- **[아트 호라이즌(Art Horizon)](https://github.com/hhejo/art-horizon-fe)**
-  - 온라인으로 미술 관람, 전시, 추천 서비스 (2022/08 - 2022/10, 7 weeks)
-- **러니티(Learnity)**
+- 사내 식당 식단표 스크래핑 (`JavaScript`, `Selenium`)
+- **[아트 호라이즌(Art Horizon)](https://github.com/hhejo/art-horizon-fe)** - `React
+  - 온라인 미술 관람, 전시, 추천 서비스 (2022/08 - 2022/10, 7 weeks)
+- **러니티(Learnity)** - `React`
   - 실시간 강의 및 스터디 플랫폼 서비스 (2022/07 - 2022/08, 7 weeks)
-- **[디-플렉스(D-Flex)](https://github.com/hhejo/D-FLEX)** (2022/05, 1 week)
+- **[디-플렉스(D-Flex)](https://github.com/hhejo/D-FLEX)** (2022/05, 1 week) - `JavaScript`
   - 영화 검색, 추천, 리뷰, 커뮤니티 서비스
 - Django를 이용한 게시판 CRUD 사이트
 - Flask를 이용한 게시판 CRUD 사이트
