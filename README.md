@@ -10,10 +10,6 @@
 
 **[공부한 것을 정리하는 블로그](https://hhejo.github.io)**
 
-## History
-
-[삼성 청년 SW 아카데미(SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) 7기 수료 (2022/01 - 2022/12)
-
 ## Tech Stack
 
 **Language**
@@ -114,6 +110,10 @@
 - 웹 사이트 스크래퍼(Python, Flask, Selenium)
 - JavaScript를 이용한 간단한 To Do List
 - HTML, CSS를 이용해 간단한 블로그 사이트 작성
+
+## History
+
+[삼성 청년 SW 아카데미(SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) 7기 수료 (2022/01 - 2022/12)
 
 ## Problem Solving
 
