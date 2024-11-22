@@ -8,7 +8,7 @@
 
 [프론트엔드 개발자 함희주의 포트폴리오](https://sable-exhaust-9f0.notion.site/479338ef915044d88328b7a65198bab7)
 
-**[공부한 것을 정리하는 블로그](https://hhejo.github.io)**
+[공부한 것을 정리하는 블로그](https://hhejo.github.io)
 
 ## Tech Stack
 
