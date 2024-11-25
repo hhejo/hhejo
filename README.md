@@ -101,7 +101,7 @@
   - 온라인 IDE 서비스 (2022/10 - 2022/11, 7 weeks)
 - 사내 식당 식단표 스크래핑 (`JavaScript`, `Selenium`)
 - **[아트 호라이즌 (Art Horizon)](https://github.com/hhejo/art-horizon-fe)** - `React`, `Redux`
-  - 온라인 미술 관람, 전시, 추천 서비스 (2022/08 - 2022/10, 7 weeks)
+  - 온라인 미술 관람, 전시, 추천, AI 이미지 변환 서비스 (2022/08 - 2022/10, 7 weeks)
 - **러니티 (Learnity)** - `React`, `Redux`
   - 실시간 강의 및 스터디 플랫폼 서비스 (2022/07 - 2022/08, 7 weeks)
 - **[디-플렉스 (D-Flex)](https://github.com/hhejo/D-FLEX)** (2022/05, 1 week) - `JavaScript`
