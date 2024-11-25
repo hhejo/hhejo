@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <br />
-<!--   <img src="https://img.shields.io/badge/ASP .NET -512BD4?style=flat-square&logo=asp.net&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/ASP .NET-512BD4?style=flat-square&logo=asp&logoColor=white">
   <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white">
   <!-- JWT 000000 -->
   <!-- OAuth 3C7DD9 -->
