@@ -117,7 +117,7 @@
 - [코스타 타이머 (KOSTA Timer)](https://github.com/hhejo/chrome-timer) - `JavaScript`
   - 날짜와 시간을 지정해 알림을 띄워주는 크롬 확장 프로그램 ([크롬 웹스토어에 등록됨](https://chromewebstore.google.com/detail/kosta-timer/helppnekbooonbajcomnekjicpoaoifd?hl=ko&utm_source=ext_sidebar))
 - [파이비즈 (Pyviz)](https://github.com/hhejo/pyviz) - `Python`
-  - 웹 크롤링, 데이터 시각화
+  - 웹 커뮤니티 MBTI 언급량 크롤링, 데이터 분석·시각화
 - [뉴뉴스 (Newnews)](https://github.com/hhejo/newnews) - `TypeScript`, `Next`, `Express`
   - 알라딘 Open API를 이용한 책 검색 서비스
 - [호호밥 (HoHoBoB)](https://github.com/hhejo/hohobob) - `HTML`, `SASS`
