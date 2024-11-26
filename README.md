@@ -121,7 +121,7 @@
 - [뉴뉴스 (Newnews)](https://github.com/hhejo/newnews) - `Next`, `TypeScript`, `Express`
   - 알라딘 Open API를 이용한 책 조회, 검색 사이트
 - [호호밥 (HoHoBoB)](https://github.com/hhejo/hohobob) - `HTML`, `SASS`
-  - 식당 소개 사이트
+  - 호호밥이라는 식당을 소개하는 정적 웹 페이지
 - [날씨 기분 일기 (Weather Emotion Diary)](https://github.com/hhejo/wea-emo-diary) - `Scratch`
   - 하루의 날씨, 기분을 기록하고 평가하는 모바일 앱
 - **[까마귀 공방 (Crow Studio)](https://github.com/hhejo/crow-studio-fe)** - `React`, `Redux`
