@@ -111,7 +111,7 @@
 - [포트폴리오 (Portfolio)](https://github.com/hhejo/portfolio) - `TypeScript`, `React`, `Vite`, `Tailwind CSS`
   - 개인 포트폴리오 사이트
 - [퍼가요 (PuGaYo)](https://github.com/hhejo/pugayo) - `C#`, `.NET`, `Windows Forms`
-  - C# Windows Forms를 이용한 구글 검색기 데스크탑 애플리케이션
+  - C#을 이용한 구글 검색 윈도우 데스크탑 앱
 - [무니 (MooNee)](https://github.com/hhejo/moonee) - `JavaScript`, `Vite`, `Tailwind CSS`
   - indexedDB를 이용한 오프라인 가계부 웹 앱
 - [코스타 타이머 (KOSTA Timer)](https://github.com/hhejo/chrome-timer) - `JavaScript`
