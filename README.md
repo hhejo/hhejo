@@ -113,7 +113,7 @@
 - [퍼가요 (PuGaYo)](https://github.com/hhejo/pugayo) - `C#`, `.NET`, `Windows Forms`
   - C# Windows Forms를 이용한 구글 검색기 데스크탑 애플리케이션
 - [무니 (MooNee)](https://github.com/hhejo/moonee) - `JavaScript`, `Vite`, `Tailwind CSS`
-  - indexedDB를 이용한 가계부 오프라인 웹 애플리케이션
+  - indexedDB를 이용한 오프라인 가계부 웹 앱
 - [코스타 타이머 (KOSTA Timer)](https://github.com/hhejo/chrome-timer) - `JavaScript`
   - 날짜와 시간을 지정해 알림을 띄워주는 크롬 확장 프로그램 ([크롬 웹스토어에 등록됨](https://chromewebstore.google.com/detail/kosta-timer/helppnekbooonbajcomnekjicpoaoifd?hl=ko&utm_source=ext_sidebar))
 - [파이비즈 (Pyviz)](https://github.com/hhejo/pyviz) - `Python`
