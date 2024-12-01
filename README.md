@@ -37,9 +37,9 @@
   <br />
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=zustand&logoColor=white">
-  <img src="https://img.shields.io/badge/tanstack query-FF4154?style=for-the-badge&logo=react-query&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/tanstack query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"> -->
   <img src="https://img.shields.io/badge/react router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  <img src="https://img.shields.io/badge/immer-83C742?style=for-the-badge&logo=immer&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/immer-83C742?style=for-the-badge&logo=immer&logoColor=white"> -->
   <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black">
   <!-- Windows Forms 512BD4 -->
@@ -53,8 +53,8 @@
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <br />
-  <img src="https://img.shields.io/badge/ASP .NET-512BD4?style=flat-square&logo=asp&logoColor=white">
-  <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/ASP .NET-512BD4?style=flat-square&logo=asp&logoColor=white"> -->
+<!--   <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white"> -->
   <!-- JWT 000000 -->
   <!-- OAuth 3C7DD9 -->
   <!-- Passport.js 34E27A -->
@@ -80,7 +80,7 @@
 <div>
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=black">
+<!--   <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=black"> -->
   <br />
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
@@ -100,8 +100,8 @@
 <!--   <img src="https://img.shields.io/badge/nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black"> -->
 <!--   <img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"> -->
-<!--   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black"> -->
-<!--   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=black"> -->
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black">
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=black">
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=black">
 <!--   <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=black"> -->
 </div>
