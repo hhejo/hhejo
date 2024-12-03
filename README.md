@@ -122,7 +122,7 @@
   - 알라딘 Open API를 이용한 책 검색 서비스
 - [호호밥 (HoHoBoB)](https://github.com/hhejo/hohobob) - `HTML`, `SASS`
   - 호호밥이라는 식당을 소개하는 정적 웹 페이지
-- [날씨 기분 일기 (Weather Emotion Diary)](https://github.com/hhejo/wea-emo-diary) - `Scratch`
+- [날씨 기분 일기 (Weather Emotion Diary)](https://github.com/hhejo/wea-emo-diary) - `App Inventor`
   - 하루의 날씨, 기분을 기록하고 평가하는 모바일 앱
 - **[까마귀 공방 (Crow Studio)](https://github.com/hhejo/crow-studio-fe)** - `React`, `Redux`
   - 온라인 IDE 서비스 (2022/10 - 2022/11, 7 weeks)
