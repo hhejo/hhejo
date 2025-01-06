@@ -108,6 +108,8 @@
 
 ## Projects
 
+- [루체 비타(Luce Vita)](https://github.com/hhejo/luce-vita-client) - `TypeScript`, `React`, `React Router`, `Vite`, `Tailwind CSS`
+  - 여행을 기록하고 관리하는 앱
 - [포트폴리오 (Portfolio)](https://github.com/hhejo/portfolio) - `TypeScript`, `React`, `Vite`, `Tailwind CSS`
   - 개인 포트폴리오 웹 페이지
 - [퍼가요 (PuGaYo)](https://github.com/hhejo/pugayo) - `C#`, `.NET`, `Windows Forms`
