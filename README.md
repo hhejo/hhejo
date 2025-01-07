@@ -1,6 +1,4 @@
-# HHEJO 🥺
-
-## 안 녕 하 세 요 👋
+# HHEJO의 README 😃
 
 ## Portfolio, Blog
 
