@@ -1,6 +1,6 @@
 # HHEJO의 README 😃
 
-## Portfolio, Blog
+## Resume, Portfolio, Blog
 
 [이력서](https://sable-exhaust-9f0.notion.site/479338ef915044d88328b7a65198bab7)
 
