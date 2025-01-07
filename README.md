@@ -142,6 +142,8 @@
 
 ## History
 
+Node.js 기반 DevOps 개발자 양성 훈련과정 (2024/08 - 2024/12)
+
 [삼성 청년 SW 아카데미(SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) 7기 수료 (2022/01 - 2022/12)
 
 ## Problem Solving
