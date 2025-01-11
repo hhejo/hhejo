@@ -4,7 +4,7 @@
 
 [이력서](https://sable-exhaust-9f0.notion.site/479338ef915044d88328b7a65198bab7)
 
-[포트폴리오](https://hhejo.github.io/portfolio)
+[포트폴리오 소개 웹 페이지](https://hhejo.github.io/portfolio)
 
 [공부한 것을 정리하는 블로그](https://hhejo.github.io)
 
