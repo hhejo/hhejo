@@ -159,15 +159,6 @@
 -->
 
 <!--
-
-혼자 프로젝트 2020-2021
-플라스크
-셀레늄
-노마드코더
-
--->
-
-<!--
 **hhejo/hhejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
