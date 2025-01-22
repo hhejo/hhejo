@@ -21,6 +21,7 @@
   <br />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
 </div>
+
 <br />
 
 **Client**
@@ -40,6 +41,7 @@
   <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black">
   <!-- Windows Forms 512BD4 -->
 </div>
+
 <br />
 
 **Server**
@@ -55,6 +57,7 @@
   <!-- OAuth 3C7DD9 -->
   <!-- Passport.js 34E27A -->
 </div>
+
 <br />
 
 **Database**
@@ -70,6 +73,7 @@
   <img src="https://img.shields.io/badge/sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
   <img src="https://img.shields.io/badge/mongoose-880000?style=flat-square&logo=mongoose&logoColor=white">
 </div>
+
 <br />
 
 **UI**
@@ -82,6 +86,7 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/mui-007FFF?style=flat-square&logo=mui&logoColor=white">
 </div>
+
 <br />
 
 **Etc**
