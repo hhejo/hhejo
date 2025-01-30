@@ -2,11 +2,11 @@
 
 ## Resume, Portfolio, Blog
 
-[이력서](https://sable-exhaust-9f0.notion.site/479338ef915044d88328b7a65198bab7)
+[Resume](https://sable-exhaust-9f0.notion.site/479338ef915044d88328b7a65198bab7)
 
-[포트폴리오 소개 페이지](https://hhejo.github.io/portfolio)
+[Portfolio(포트폴리오 소개 페이지)](https://hhejo.github.io/portfolio)
 
-[공부한 것을 정리하는 블로그](https://hhejo.github.io)
+[Blog(공부한 것을 정리)](https://hhejo.github.io)
 
 ## Tech Stack
 
